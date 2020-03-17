@@ -1,0 +1,7 @@
+D:\TPASP\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\TPASP\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\TPASP\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\TPASP\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\TPASP\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\TPASP\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\TPASP\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
